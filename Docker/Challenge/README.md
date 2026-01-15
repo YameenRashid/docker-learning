@@ -34,6 +34,6 @@ Both services are containerised and managed together using Docker Compose, formi
 
 Here are 2 images of the output:
 
-![Welcome Page Output](./images/one.png)
+![Welcome Page Output](Docker/images/one.png)
 
-![Count Page Output](./images/two.png)
+![Count Page Output](Docker/images/two.png)
